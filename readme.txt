@@ -1,0 +1,3 @@
+You can implement pulse train addition, multiplication, and convolution using pulseAdditionA.m, pulseMultiplicationA.m, and pulseConvolutionA.m respectively. Typical usage of the function is provided in testbenchAdditionA.m, testbenchMultiplicationA.m, and testbenchConvolutionA.m respectively.
+
+Disclaimer: All programs contained herein are provided to you “AS IS” without any warranties of any kind. The implied warranties of non-infringement, merchantability and fitness for a particular purpose are expressly disclaimed.
